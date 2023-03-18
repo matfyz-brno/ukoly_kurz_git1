@@ -1,4 +1,4 @@
-# Czechitas Git
+# Czechitas Git 1
 
 ## Úkoly
 
@@ -23,6 +23,7 @@ Soubory jsou ve značkovacím jazyce [Markdown](https://www.markdownguide.org), 
 14. Upravte seznam filmů tak, aby byl rok v závorce na konci řádku, stejně jako u prvních dvou filmových sérií.
 15. Upravte seznam filmů série *Bourne* tak, aby jednotlivé filmy byly uvedeny vzestupně dle roku vytvoření.
 16. Vytvořte adresář `movies` a do něj rozdělte obsah souboru `movie_series.md` do 4 souborů. Soubory pojmenutje podle názvů filmových sérií, tedy např. `the_matrix.md`.
+
 
 ## Bonus
 
