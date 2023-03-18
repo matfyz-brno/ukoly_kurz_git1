@@ -2,8 +2,8 @@
 
 ## Úkoly
 
-Seznamte se s obsahem repozitáře a všimněte si nekonzistencí v pojmenování i obsahu jednotlivých souborů.
-Soubory jsou ve značkovacím jazyce [Markdown](https://www.markdownguide.org), jehož [syntaxe](https://www.markdownguide.org/basic-syntax) není nijak složitá.
+1. Seznamte se s obsahem repozitáře a všimněte si nekonzistencí v pojmenování i obsahu jednotlivých souborů.
+2. Soubory jsou ve značkovacím jazyce [Markdown](https://www.markdownguide.org), jehož [syntaxe](https://www.markdownguide.org/basic-syntax) není nijak složitá.
 
 **Níže uvedené úkoly se nevztahují na soubor `README.md`, který právě čtete.**
 
